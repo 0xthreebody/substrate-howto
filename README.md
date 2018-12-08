@@ -1,5 +1,7 @@
 # How to build a Custom Substrate Module from scratch.
 
+ORIGINAL: <https://gitlab.com/chrisdcosta/basictest/blob/master/Howto.md#how-to-build-a-custom-substrate-module-from-scratch>  
+
 I wrote this piece because I am new to Rust, and struggling to hack out a new module from existing ones without coming across multiple compile errors. Also, looking at both the examples in the SRML modules, and the crates that contained some of the underlying code showed that there were some incredible possibilities, that weren't full explored yet in the SRML modules.
 
 What I set out to do was build a simple module from scratch that covered some of the general requirements that may be needed in projects:
