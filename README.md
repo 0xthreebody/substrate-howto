@@ -1,4 +1,4 @@
-**ORIGINAL:** <https://gitlab.com/chrisdcosta/basictest/blob/master/Howto.md>  
+**ORIGINAL:** <https://gitlab.com/chrisdcosta/basictest/blob/master/README.md>  
 
 
 ## The story so far
